@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="50" alt="Waving hand" />
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40" alt="Wave gif" />
   <h1>¡Hola! Soy Aron (Nyxthorn) 💻</h1>
   <h3>Estudiante de Redes | Entusiasta de IoT, Automatización y Linux</h3>
   <br>
@@ -81,7 +81,7 @@
 ### ☕ Apóyame
 
 <div align="center">
-  <p>Si mis proyectos o repositorios te han ayudado, invitarme un café me ayuda a mantener mis laboratorios y seguir aportando a la comunidad.</p>
+  <p>Si mis proyectos o repositorios te han ayudado, invitarme un café me ayuda a financiar mis laboratorios y seguir aportando a la comunidad.</p>
   <a href="https://www.ko-fi.com/nyxth0rn" target="_blank">
     <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="200" alt="Invítame un café en Ko-fi" />
   </a>
