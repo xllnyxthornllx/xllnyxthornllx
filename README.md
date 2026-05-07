@@ -1,88 +1,131 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40" alt="Wave gif" />
-  <h1>¡Hola! Soy Aron (Nyxthorn) 💻</h1>
-  <h3>Estudiante de Redes | Entusiasta de IoT, Automatización y Linux</h3>
-  <br>
-  <p>Me apasiona armar laboratorios, automatizar tareas y cacharrear con hardware. Me muevo entre configuraciones de infraestructura (Cisco/Fortinet), despliegue de servidores Linux y programación de microcontroladores (ESP32/Arduino). Busco siempre la forma más eficiente de conectar el mundo físico con el digital.</p>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
----
+###
 
-### 👨‍💻 Sobre Mí
+<br clear="both">
 
-* 🌍 **Base:** Arequipa, Perú.
-* ✉️ **Contacto:** <a href="mailto:xragnard@gmail.com">xragnard@gmail.com</a>
-* 🧠 **Aprendiendo:** Despliegues avanzados con Docker, Python para redes y Node-RED.
-* 🤝 **Colaborando:** Proyectos open source relacionados con IoT y scripts de automatización de servidores.
-* 🎮 **Fuera del código:** Cuando no estoy peleando con un servidor, seguro me encuentras rankeando en Valorant o transmitiendo en mi canal de Twitch.
+<h2 align="center">¡Hola! Soy Aron (Nyxthorn) 💻</h2>
 
-<br>
+###
 
-### 🛠️ Mi Arsenal Tecnológico
+<p align="left">Me apasiona armar laboratorios, automatizar tareas y cacharrear con hardware. Me muevo entre configuraciones de infraestructura (Cisco/Fortinet), despliegue de servidores Linux y programación de microcontroladores (ESP32/Arduino). Busco siempre la forma más eficiente de conectar el mundo físico con el digital.<br><br>✉← Puedes contactarme en xragnard@gmail.com<br>🧠 Estoy aprendiendo Despliegues avanzados con Docker, Python para redes y Node-RED.<br>🤝 Estoy abierto a colaborar Cualquier proyecto de código abierto relacionado con IoT, scripts de automatización o laboratorios de servidores.<br>⚡  Cuando no estoy peleando con un servidor o código, seguro me encuentres jugando valorant o pasando por mi twitch haciendo cositas</p>
+
+###
 
 <div align="center">
-  <p><b>Sistemas, Redes y Contenedores</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu,fedora,bash,docker,git" alt="SysAdmin Skills" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="60" alt="filezilla logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="60" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="60" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="60" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="60" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="60" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="60" alt="putty logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="60" alt="raspberrypi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="60" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="60" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="60" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/arduino/00979D" height="60" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="60" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/gradle/02303A" height="60" alt="gradle logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="60" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="60" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/vercel/000000" height="60" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/vim/019733" height="60" alt="vim logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/vite/646CFF" height="60" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=netlify" height="60" alt="netlify logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=octave" height="60" alt="octave logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="60" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="60" alt="ansible logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="www.linkedin.com/in/nyxthorn" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  
-  <br><br>
-  
-  <p><b>Desarrollo, Base de Datos e IoT</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,php,mysql,arduino,raspberrypi" alt="Dev & IoT Skills" />
+  <a href="https://discord.com/channels/llnyxthornll" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+  <a href="https://www.twitch.tv/nyxthorn_0x" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
   </a>
 </div>
 
-<br>
+###
 
-### 🌐 Conecta Conmigo
-
-<div align="center">
-  <a href="https://www.github.com/xllnyxthornllx" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-27272a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/nyxthorn" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.twitch.tv/NYXTHORN_0X" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
-  </a>
-  <a href="https://discord.com/users/llnyxthornll" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xllnyxthornllx&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=xllnyxthornllx&locale=es&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=xllnyxthornllx&theme=discord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-<div align="center">
-  <br>
-  <a href="https://www.github.com/xllnyxthornllx" target="_blank">
-    <img src="https://img.shields.io/github/followers/xllnyxthornllx?logo=github&style=for-the-badge&color=ef4444&labelColor=27272a" alt="GitHub Followers" />
-  </a>
-  <a href="https://www.twitch.tv/NYXTHORN_0X" target="_blank">
-    <img src="https://img.shields.io/twitch/status/NYXTHORN_0X?logo=twitch&style=for-the-badge&color=ef4444&labelColor=27272a&label=TWITCH+STATUS" alt="Twitch Status" />
-  </a>
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xllnyxthornllx/xllnyxthornllx/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xllnyxthornllx/xllnyxthornllx/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/xllnyxthornllx/xllnyxthornllx/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
 </div>
 
-<br>
-
-### 📊 Estadísticas de Desarrollo
+###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xllnyxthornllx&show_icons=true&count_private=true&title_color=ffffff&text_color=ef4444&icon_color=64748b&bg_color=27272a&hide_border=true" alt="Estadísticas de Aron" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xllnyxthornllx&langs_count=5&title_color=ffffff&text_color=ef4444&icon_color=64748b&bg_color=27272a&hide_border=true&layout=compact&custom_title=Top%20Languages" alt="Lenguajes Principales" width="48%" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=xllnyxthornllx.xllnyxthornllx&left_color=blue"  />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xllnyxthornllx&stroke=ef4444&background=27272a&ring=ffffff&fire=ffffff&currStreakNum=ef4444&currStreakLabel=ffffff&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" alt="Racha de Commits" />
-</div>
-
-<br>
-
-### ☕ Apóyame
-
-<div align="center">
-  <p>Si mis proyectos o repositorios te han ayudado, invitarme un café me ayuda a financiar mis laboratorios y seguir aportando a la comunidad.</p>
-  <a href="https://www.ko-fi.com/nyxth0rn" target="_blank">
-    <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="200" alt="Invítame un café en Ko-fi" />
-  </a>
-</div>
+###
