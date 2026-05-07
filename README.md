@@ -1,56 +1,71 @@
 <div align="center">
-  <h1>Hola, soy ARON 👋</h1>
-  
-  <!-- Animación de texto tipo máquina de escribir -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2496ED&center=true&vCenter=true&width=430&lines=Automatización+de+Redes;Entusiasta+de+IoT+%26+Hardware;Linux,+Docker+%26+Python;Solucionador+de+Problemas" alt="Typing SVG" />
+  <!-- Banner Superior Animado -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2496ED&center=true&vCenter=true&width=500&lines=Ingenier%C3%ADa+de+Redes;Automatizaci%C3%B3n+e+IoT;Python,+Linux+%26+Docker;Desarrollo+de+Soluciones" alt="Typing SVG" />
+  </a>
+</div>
 
+<br/>
+
+<div align="center">
+  <h3>¡Hola! Soy Aron 👋</h3>
   <p>
-    Me apasiona la tecnología y construir cosas que funcionen de manera eficiente. Mi enfoque está en la <b>infraestructura de redes, la automatización y el Internet de las Cosas (IoT)</b>. Me gusta ensuciarme las manos configurando servidores, programando microcontroladores e integrando herramientas de IA en mis flujos de trabajo.
+    Construyo la infraestructura que conecta las cosas. Me especializo en <b>administración de redes, automatización de procesos y desarrollo de hardware IoT</b>. Disfruto creando desde scripts para equipos Fortinet y Cisco, hasta sistemas automatizados con ESP32.
   </p>
-
-  <!-- Botones de Contacto -->
-  <a href="https://www.linkedin.com/in/nyxthorn" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:xragnard@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
-
-<br/>
-
-### 🛠️ Tecnologías y Herramientas
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux_Terminal-4D4D4D?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/Espressif_ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
-  <img src="https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=node-red&logoColor=white" alt="Node-RED" />
-  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</div>
-
-<br/>
-
-### 📊 Estadísticas de GitHub
-
-<div align="center">
-  <!-- Tarjeta de Estadísticas Generales -->
-  <img src="https://github-readme-stats.vercel.app/api?username=nyxthorn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Estadísticas de Uriel" width="48%" />
   
-  <!-- Tarjeta de Lenguajes Más Usados -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyxthorn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Lenguajes Top" width="48%" />
-</div>
-
-<div align="center">
-  <!-- Gráfico de Racha de Commits -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nyxthorn&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <!-- Redes Sociales (Basado en la lista de Badges de Dev.to) -->
+  <p>
+    <a href="https://www.linkedin.com/in/nyxthorn" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:xragnard@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 </div>
 
 ---
+
+### 👨‍💻 Sobre Mí
+
+* 🔭 Actualmente enfocado en **automatización de redes y proyectos de integración IoT**.
+* 🌱 Mejorando mis habilidades en despliegues de servidores con **Ubuntu Pro y Docker**.
+* ⚡ **Dato curioso:** Cuando no estoy configurando redes o soldando componentes para un proyecto, me puedes encontrar rankeando en Dota 2 o jugando Valorant.
+
+<br/>
+
+### 🛠️ Arsenal Tecnológico
+
+<!-- Aquí usamos Skill-Icons (tandpfun) que mencionaste. Es mucho más estético -->
 <div align="center">
-  <i>"Automatizando el presente para optimizar el futuro."</i> 🚀
+  <h4>Redes, SO y Contenedores</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,bash,git,github" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <h4>Desarrollo, IoT y Hardware</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,arduino,ts,html,css,vscode" />
+  </a>
+</div>
+
+<br/>
+
+### 📈 Mis Estadísticas
+
+<div align="center">
+  <!-- Estadísticas de GitHub transparentes para que combinen con cualquier tema -->
+  <img src="https://github-readme-stats.vercel.app/api?username=nyxthorn&show_icons=true&theme=transparent&hide_border=true&title_color=2496ED&text_color=777&icon_color=2496ED&bg_color=00000000" alt="Estadísticas de Uriel" width="48%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyxthorn&layout=compact&theme=transparent&hide_border=true&title_color=2496ED&text_color=777&bg_color=00000000" alt="Lenguajes Top" width="48%" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=nyxthorn&label=Visitas+al+perfil&color=2496ED&style=flat" alt="Contador de visitas" />
 </div>
